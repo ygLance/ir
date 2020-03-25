@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9030da31-cb9f-4b92-b231-f433e625001c" name="Default Changelist" comment="" />
+    <list default="true" id="9030da31-cb9f-4b92-b231-f433e625001c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/greatgb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/oldmanandsea.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/岗哨.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON_DATA/001.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON_DATA/001.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON_DATA/filenames.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON_DATA/filenames.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZUIIVuXspA4RSgRIMmNqJO1VRB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,14 +48,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/div" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MYcode\Pycharm\ir" />
+      <recent name="D:\MYcode\Pycharm\ir\data" />
       <recent name="D:\MYcode\Pycharm\RI\JSON_DATA" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MYcode\Pycharm\ir\data" />
       <recent name="D:\MYcode\Pycharm\RI\div" />
     </key>
   </component>
@@ -186,6 +200,9 @@
       <workItem from="1584892915745" duration="1436000" />
       <workItem from="1584925454960" duration="31229000" />
       <workItem from="1585040398920" duration="5786000" />
+      <workItem from="1585060357688" duration="29000" />
+      <workItem from="1585097300562" duration="905000" />
+      <workItem from="1585098217506" duration="1057000" />
     </task>
     <servers />
   </component>
@@ -209,35 +226,36 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="551" y="202" key="FileChooserDialogImpl/0.0.1474.864/-1920.0.1536.864@0.0.1474.864" timestamp="1585040773844" />
-    <state width="1364" height="93" key="GridCell.Tab.0.bottom" timestamp="1585058814679">
+    <state width="1366" height="123" key="GridCell.Tab.0.bottom" timestamp="1585099503392">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1364" height="93" key="GridCell.Tab.0.bottom/0.0.1474.864/-1920.0.1536.864@0.0.1474.864" timestamp="1585058814679" />
-    <state width="1364" height="93" key="GridCell.Tab.0.center" timestamp="1585058814679">
+    <state width="1366" height="123" key="GridCell.Tab.0.bottom/0.0.1474.864/-1920.0.1536.864@0.0.1474.864" timestamp="1585099503392" />
+    <state width="1366" height="123" key="GridCell.Tab.0.center" timestamp="1585099503392">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1364" height="93" key="GridCell.Tab.0.center/0.0.1474.864/-1920.0.1536.864@0.0.1474.864" timestamp="1585058814679" />
-    <state width="1364" height="93" key="GridCell.Tab.0.left" timestamp="1585058814679">
+    <state width="1366" height="123" key="GridCell.Tab.0.center/0.0.1474.864/-1920.0.1536.864@0.0.1474.864" timestamp="1585099503392" />
+    <state width="1366" height="123" key="GridCell.Tab.0.left" timestamp="1585099503392">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1364" height="93" key="GridCell.Tab.0.left/0.0.1474.864/-1920.0.1536.864@0.0.1474.864" timestamp="1585058814679" />
-    <state width="1364" height="93" key="GridCell.Tab.0.right" timestamp="1585058814679">
+    <state width="1366" height="123" key="GridCell.Tab.0.left/0.0.1474.864/-1920.0.1536.864@0.0.1474.864" timestamp="1585099503392" />
+    <state width="1366" height="123" key="GridCell.Tab.0.right" timestamp="1585099503392">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1364" height="93" key="GridCell.Tab.0.right/0.0.1474.864/-1920.0.1536.864@0.0.1474.864" timestamp="1585058814679" />
+    <state width="1366" height="123" key="GridCell.Tab.0.right/0.0.1474.864/-1920.0.1536.864@0.0.1474.864" timestamp="1585099503392" />
     <state x="274" y="89" key="SettingsEditor" timestamp="1585021768043">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="274" y="89" key="SettingsEditor/0.0.1474.864/-1920.0.1536.864@0.0.1474.864" timestamp="1585021768043" />
-    <state x="430" y="260" width="577" height="333" key="com.intellij.ide.util.TipDialog" timestamp="1585040399003">
+    <state x="430" y="260" width="577" height="333" key="com.intellij.ide.util.TipDialog" timestamp="1585098225495">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="430" y="260" width="577" height="333" key="com.intellij.ide.util.TipDialog/0.0.1474.864/-1920.0.1536.864@0.0.1474.864" timestamp="1585040399003" />
+    <state x="430" y="260" width="577" height="333" key="com.intellij.ide.util.TipDialog/0.0.1474.864/-1920.0.1536.864@0.0.1474.864" timestamp="1585098225495" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RI$main.coverage" NAME="main Coverage Results" MODIFIED="1585040613162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RI$read.coverage" NAME="read Coverage Results" MODIFIED="1585041493406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JSON_DATA" />
     <SUITE FILE_PATH="coverage/RI$build_1.coverage" NAME="build_1 Coverage Results" MODIFIED="1585043386840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ir$build_1.coverage" NAME="build_1 Coverage Results" MODIFIED="1585099503381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RI$div_main.coverage" NAME="div_main Coverage Results" MODIFIED="1584956228722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/div" />
     <SUITE FILE_PATH="coverage/RI$tmpp.coverage" NAME="tmpp Coverage Results" MODIFIED="1585011443844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RI$tmppp.coverage" NAME="tmppp Coverage Results" MODIFIED="1585021708645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
